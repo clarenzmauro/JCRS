@@ -1,0 +1,24 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #007bff;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: 2px solid blue;
+}
+
+li {
+    color: red;
+}
